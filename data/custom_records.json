@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-09",
+    "year": 2026,
+    "month": 9,
+    "date": "2026-09-18",
+    "time": "19:15",
+    "nationalDemandMW": 8195.4,
+    "regions": {
+      "nacional": {
+        "demandMW": 8195.4,
+        "sharePercentage": 100
+      },
+      "centro": {
+        "demandMW": 4327.2,
+        "sharePercentage": 52.8
+      },
+      "sur": {
+        "demandMW": 1917.7,
+        "sharePercentage": 23.4
+      },
+      "norte": {
+        "demandMW": 1524.3,
+        "sharePercentage": 18.6
+      },
+      "oriente": {
+        "demandMW": 426.2,
+        "sharePercentage": 5.2
+      },
+      "lima": {
+        "demandMW": 3526.7,
+        "sharePercentage": 43
+      },
+      "arequipa": {
+        "demandMW": 700,
+        "sharePercentage": 8.5
+      },
+      "la_libertad": {
+        "demandMW": 564,
+        "sharePercentage": 6.9
+      },
+      "piura": {
+        "demandMW": 442,
+        "sharePercentage": 5.4
+      },
+      "sur_minero": {
+        "demandMW": 1121.9,
+        "sharePercentage": 13.7
+      }
+    },
+    "monthName": "Setiembre",
+    "day": 18,
+    "dayOfWeek": "Viernes",
+    "dayType": "Laborable",
+    "hour": 19,
+    "minute": 15,
+    "isPeakHour": true,
+    "periodName": "Hora Punta (HP)",
+    "growthYoY": 5.37,
+    "notes": "Máxima demanda coincidente registrada para Setiembre 2026: 8,195.4 MW el 18/9/2026 a las 19:15 hrs.",
+    "sourceDocument": "Portal Oficial COES (Actualización)",
+    "isOfficialCoesVerified": true,
+    "exportEcuMW": 0,
+    "importEcuMW": 0,
+    "isUserAdded": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dashboard Máxima Demanda Eléctrica Perú (15 Años) v5",
+  "description": "Dashboard histórico de la máxima demanda eléctrica del SEIN en Perú (2010 - 2026 a la fecha) con datos oficiales del COES, intercambios internacionales PER-ECU y filtros por región, mes, día y hora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
